@@ -1,2 +1,2 @@
 # test-repo
-Test repository to clone
+This is a repository made simply to check if cloning works.
